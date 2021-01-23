@@ -1,5 +1,5 @@
 ### SpaceCheats 👋
-![brr](https://komarev.com/ghpvc/?username=SpaceCheats&style=flat-square&color=blueviolet) <br>
+![Data](https://komarev.com/ghpvc/?username=SpaceCheats&style=flat-square&color=blueviolet) <br>
 <br>
 [![Status](https://github-readme-stats.vercel.app/api?username=SpaceCheats&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 
